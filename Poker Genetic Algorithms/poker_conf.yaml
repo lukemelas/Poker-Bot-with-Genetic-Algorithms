@@ -1,0 +1,12 @@
+ante: 0
+blind_structure: null
+initial_stack: 500
+max_round: 100
+small_blind: 1
+ai_players:
+- name: AI_1
+  path: heuristicAI.py
+- name: AI_2
+  path: heuristicAI.py
+- name: AI_3
+  path: heuristicAI.py

@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: PyPokerGUI
+Version: 0.0.7
+Summary: GUI application for PyPokerEngine
+Home-page: https://github.com/ishikota/PyPokerGUI
+Author: ishikota
+Author-email: ishikota086@gmail.com
+License: MIT
+Keywords: python poker engine gui
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: PyYAML (==3.12)
+Requires-Dist: click (==6.7)
+Requires-Dist: pypokerengine
+Requires-Dist: tornado (==4.4.2)
+
+UNKNOWN
+
+

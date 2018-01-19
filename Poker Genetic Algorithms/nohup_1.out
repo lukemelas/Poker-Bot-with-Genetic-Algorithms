@@ -1,0 +1,162 @@
+[([array([ 0.49799216,  0.25090205,  0.        ,  0.25110579]), array([ 0.39311772,  0.37903218,  0.11792563,  0.10992447]), array([ 0.09601802,  0.76569358,  0.1382884 ,  0.        ]), array([ 0.        ,  0.59241211,  0.40758789,  0.        ]), array([ 0.        ,  0.34154705,  0.65845295,  0.        ])], 0.7744178246219566), ([array([ 0.56229144,  0.22355466,  0.        ,  0.2141539 ]), array([ 0.37641876,  0.4007485 ,  0.1188476 ,  0.10398515]), array([ 0.0759045 ,  0.70521802,  0.21887747,  0.        ]), array([ 0.        ,  0.58584165,  0.41415835,  0.        ]), array([ 0.       ,  0.2995191,  0.7004809,  0.       ])], 0.9920084114269181), ([array([ 0.56868558,  0.24491499,  0.        ,  0.18639943]), array([ 0.44859035,  0.35598128,  0.09295592,  0.10247245]), array([ 0.10348949,  0.66590988,  0.23060063,  0.        ]), array([ 0.        ,  0.59399594,  0.40600406,  0.        ]), array([ 0.        ,  0.35866404,  0.64133596,  0.        ])], 1.7769100083338059), ([array([ 0.59314146,  0.1899787 ,  0.        ,  0.21687983]), array([ 0.31734798,  0.44564653,  0.11079846,  0.12620703]), array([ 0.11105965,  0.68748455,  0.20145581,  0.        ]), array([ 0.        ,  0.58199098,  0.41800902,  0.        ]), array([ 0.        ,  0.37499583,  0.62500417,  0.        ])], 1.7638689285646245), ([array([ 0.65205679,  0.15480492,  0.        ,  0.19313829]), array([ 0.43744544,  0.40696792,  0.0763543 ,  0.07923233]), array([ 0.11170002,  0.69405008,  0.1942499 ,  0.        ]), array([ 0.        ,  0.64612444,  0.35387556,  0.        ]), array([ 0.        ,  0.31179377,  0.68820623,  0.        ])], 0.6250869094369802), ([array([ 0.55968114,  0.22643758,  0.        ,  0.21388128]), array([ 0.43608551,  0.36984296,  0.08388674,  0.11018479]), array([ 0.08360848,  0.7422856 ,  0.17410592,  0.        ]), array([ 0.        ,  0.63962407,  0.36037593,  0.        ]), array([ 0.        ,  0.38781412,  0.61218588,  0.        ])], 1.488259667173236), ([array([ 0.59165859,  0.20087838,  0.        ,  0.20746303]), array([ 0.33809147,  0.44794027,  0.08574095,  0.12822731]), array([ 0.06923334,  0.745889  ,  0.18487766,  0.        ]), array([ 0.        ,  0.62921759,  0.37078241,  0.        ]), array([ 0.        ,  0.32377151,  0.67622849,  0.        ])], 0.8293557586052385), ([array([ 0.55415101,  0.23087169,  0.        ,  0.2149773 ]), array([ 0.35277879,  0.41864525,  0.11906281,  0.10951315]), array([ 0.1023162,  0.6724131,  0.2252707,  0.       ]), array([ 0.        ,  0.57700984,  0.42299016,  0.        ]), array([ 0.        ,  0.34100418,  0.65899582,  0.        ])], 0.4082126977529459), ([array([ 0.64281531,  0.20352084,  0.        ,  0.15366385]), array([ 0.45171734,  0.36779123,  0.08668126,  0.09381017]), array([ 0.10653275,  0.66305083,  0.23041642,  0.        ]), array([ 0.        ,  0.59291485,  0.40708515,  0.        ]), array([ 0.        ,  0.37115156,  0.62884844,  0.        ])], 0.9909719755508184), ([array([ 0.52791278,  0.23828422,  0.        ,  0.23380299]), array([ 0.39113392,  0.43281326,  0.09022475,  0.08582808]), array([ 0.10885231,  0.71549201,  0.17565567,  0.        ]), array([ 0.        ,  0.56111721,  0.43888279,  0.        ]), array([ 0.        ,  0.28304107,  0.71695893,  0.        ])], 1.670960453477384), ([array([ 0.57381015,  0.25425409,  0.        ,  0.17193576]), array([ 0.38916876,  0.43046589,  0.08383741,  0.09652794]), array([ 0.10620954,  0.69568484,  0.19810562,  0.        ]), array([ 0.        ,  0.60455276,  0.39544724,  0.        ]), array([ 0.        ,  0.23478891,  0.76521109,  0.        ])], 1.7350908045668803), ([array([ 0.60603106,  0.21151046,  0.        ,  0.18245848]), array([ 0.44129721,  0.33919154,  0.1083693 ,  0.11114195]), array([ 0.09957512,  0.72343129,  0.17699359,  0.        ]), array([ 0.        ,  0.54406505,  0.45593495,  0.        ]), array([ 0.        ,  0.38770627,  0.61229373,  0.        ])], 0.9529203410637743), ([array([ 0.56174145,  0.1910681 ,  0.        ,  0.24719046]), array([ 0.34996332,  0.47524352,  0.08621234,  0.08858083]), array([ 0.1035304 ,  0.70494607,  0.19152353,  0.        ]), array([ 0.        ,  0.54045917,  0.45954083,  0.        ]), array([ 0.        ,  0.33756968,  0.66243032,  0.        ])], 1.3178266041991533), ([array([ 0.58449289,  0.21076754,  0.        ,  0.20473956]), array([ 0.34572389,  0.41312316,  0.11623961,  0.12491334]), array([ 0.0856312 ,  0.75903134,  0.15533747,  0.        ]), array([ 0.        ,  0.63052756,  0.36947244,  0.        ]), array([ 0.        ,  0.33040511,  0.66959489,  0.        ])], 1.6263870253934858), ([array([ 0.62270997,  0.21023584,  0.        ,  0.16705419]), array([ 0.45145803,  0.3570245 ,  0.09397245,  0.09754501]), array([ 0.10472335,  0.74109911,  0.15417754,  0.        ]), array([ 0.        ,  0.69129435,  0.30870565,  0.        ]), array([ 0.        ,  0.31570743,  0.68429257,  0.        ])], 0.9248644110183311), ([array([ 0.64739397,  0.18955298,  0.        ,  0.16305305]), array([ 0.45850398,  0.34464825,  0.08967418,  0.10717359]), array([ 0.1110037,  0.6308909,  0.2581054,  0.       ]), array([ 0.        ,  0.65516274,  0.34483726,  0.        ]), array([ 0.        ,  0.24366795,  0.75633205,  0.        ])], 1.9383894697672528), ([array([ 0.60599446,  0.20463285,  0.        ,  0.18937269]), array([ 0.3179285 ,  0.49014629,  0.09721099,  0.09471422]), array([ 0.12125398,  0.69698745,  0.18175857,  0.        ]), array([ 0.        ,  0.57085217,  0.42914783,  0.        ]), array([ 0.        ,  0.25169866,  0.74830134,  0.        ])], 0.156328400049919), ([array([ 0.61789778,  0.17865326,  0.        ,  0.20344896]), array([ 0.41045895,  0.35780822,  0.11351508,  0.11821775]), array([ 0.08643317,  0.7214961 ,  0.19207073,  0.        ]), array([ 0.        ,  0.62871501,  0.37128499,  0.        ]), array([ 0.        ,  0.36347218,  0.63652782,  0.        ])], 1.4871939216170604), ([array([ 0.57020711,  0.23761127,  0.        ,  0.19218162]), array([ 0.4437813 ,  0.36529433,  0.10899309,  0.08193129]), array([ 0.08980543,  0.70697766,  0.20321691,  0.        ]), array([ 0.        ,  0.60635694,  0.39364306,  0.        ]), array([ 0.        ,  0.33942689,  0.66057311,  0.        ])], 1.6315277962419419), ([array([ 0.56253209,  0.18139965,  0.        ,  0.25606826]), array([ 0.41197156,  0.41622968,  0.09867844,  0.07312033]), array([ 0.08477088,  0.66877278,  0.24645634,  0.        ]), array([ 0.        ,  0.64111616,  0.35888384,  0.        ]), array([ 0.        ,  0.23355655,  0.76644345,  0.        ])], 0.7383883695487923)]
+Running epoch 0
+Beginning population round 0
+Setting up a new table
+Welcoming player 5
+Welcoming player 1
+Welcoming player 3
+Welcoming player 9
+Welcoming player 8
+The final results of the poker tournament are:  {'players': [{'name': 5, 'state': 'folded', 'uuid': 'eabmmvqujqsrwzbfdlmwpg', 'stack': 0}, {'name': 1, 'state': 'folded', 'uuid': 'kkxlnfqdgusttwunrcfctu', 'stack': 0}, {'name': 3, 'state': 'participating', 'uuid': 'waexwkuhebivpewodmveba', 'stack': 998}, {'name': 9, 'state': 'folded', 'uuid': 'bmoggodquwnpotlswqtsnm', 'stack': 0}, {'name': 8, 'state': 'folded', 'uuid': 'jusvoukmkytdsoqimhwojw', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 10
+Welcoming player 16
+Welcoming player 7
+Welcoming player 12
+Welcoming player 18
+The final results of the poker tournament are:  {'players': [{'name': 10, 'state': 'participating', 'uuid': 'deoaqqewbaakcybcvqqfwy', 'stack': 0}, {'name': 16, 'state': 'participating', 'uuid': 'ujujkdjkrdsgkvgcilitop', 'stack': 0}, {'name': 7, 'state': 'participating', 'uuid': 'zlhjxuddthlxlowhhsrdjd', 'stack': 46}, {'name': 12, 'state': 'participating', 'uuid': 'ejjsujahnrcsfvqpldmvee', 'stack': 0}, {'name': 18, 'state': 'participating', 'uuid': 'twpuzhfrsdsgtabztnravr', 'stack': 954}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 14
+Welcoming player 2
+Welcoming player 4
+Welcoming player 13
+Welcoming player 19
+The final results of the poker tournament are:  {'players': [{'name': 14, 'state': 'participating', 'uuid': 'nceyogaewusmpppqjhbpxq', 'stack': 55}, {'name': 2, 'state': 'participating', 'uuid': 'dttmeipppaiqfcmcggbjux', 'stack': 0}, {'name': 4, 'state': 'participating', 'uuid': 'bqptwmqoocgfqrxxiysnjj', 'stack': 0}, {'name': 13, 'state': 'participating', 'uuid': 'qcikmlaxfkhrsdtjgenioi', 'stack': 945}, {'name': 19, 'state': 'participating', 'uuid': 'jrjelncbttissodgutpgvq', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 15
+Welcoming player 11
+Welcoming player 0
+Welcoming player 6
+Welcoming player 17
+The final results of the poker tournament are:  {'players': [{'name': 15, 'state': 'participating', 'uuid': 'vhpmimfeosfpvzpvnnspwn', 'stack': 0}, {'name': 11, 'state': 'participating', 'uuid': 'fhntpnbiogjhnburprlxha', 'stack': 774}, {'name': 0, 'state': 'participating', 'uuid': 'xxzqqhcxlljcqxsmqftvmd', 'stack': 0}, {'name': 6, 'state': 'participating', 'uuid': 'rkbdndtscjseqtrmkdjbuc', 'stack': 0}, {'name': 17, 'state': 'participating', 'uuid': 'lezjchkhvwrkpjjgidkowe', 'stack': 226}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+The fitness totals for this round are:  [0, 0, 0, 998, 0, 0, 0, 46, 0, 0, 0, 774, 0, 945, 55, 0, 0, 226, 954, 0]
+Beginning population round 1
+Setting up a new table
+Welcoming player 19
+Welcoming player 11
+Welcoming player 2
+Welcoming player 7
+Welcoming player 18
+The final results of the poker tournament are:  {'players': [{'name': 19, 'state': 'folded', 'uuid': 'bjsenogadofnwrowubwvwh', 'stack': 0}, {'name': 11, 'state': 'folded', 'uuid': 'vqadflhmwcqvlywsyoagnb', 'stack': 0}, {'name': 2, 'state': 'participating', 'uuid': 'sihrtspuorgaczcjieftpr', 'stack': 999}, {'name': 7, 'state': 'folded', 'uuid': 'jhncjdkowohyxdruuietzi', 'stack': 0}, {'name': 18, 'state': 'folded', 'uuid': 'himnqorgcrnxjmrneyilwp', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 5
+Welcoming player 9
+Welcoming player 8
+Welcoming player 10
+Welcoming player 13
+The final results of the poker tournament are:  {'players': [{'name': 5, 'state': 'participating', 'uuid': 'iyrdbwvkiyzhhwpukucjrg', 'stack': 1000}, {'name': 9, 'state': 'participating', 'uuid': 'jptjvqgikwhxmlugkfofah', 'stack': 0}, {'name': 8, 'state': 'participating', 'uuid': 'gdnfocolrxeirwuedevlhh', 'stack': 0}, {'name': 10, 'state': 'participating', 'uuid': 'mrtqprlhcawuislywckzqj', 'stack': 0}, {'name': 13, 'state': 'participating', 'uuid': 'uxcgnfgpdblpiyfsngwovd', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 6
+Welcoming player 12
+Welcoming player 1
+Welcoming player 3
+Welcoming player 16
+The final results of the poker tournament are:  {'players': [{'name': 6, 'state': 'participating', 'uuid': 'fqulvamkmnagcrfnfhohww', 'stack': 235}, {'name': 12, 'state': 'participating', 'uuid': 'exzioadoffxqdzsucmlatp', 'stack': 0}, {'name': 1, 'state': 'participating', 'uuid': 'vgrzvwczqccuzkzzbzfydd', 'stack': 0}, {'name': 3, 'state': 'participating', 'uuid': 'fvyczjbpkfidiljpsdspcf', 'stack': 0}, {'name': 16, 'state': 'participating', 'uuid': 'ssdypluuijkouxovychmob', 'stack': 765}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 0
+Welcoming player 14
+Welcoming player 17
+Welcoming player 15
+Welcoming player 4
+The final results of the poker tournament are:  {'players': [{'name': 0, 'state': 'folded', 'uuid': 'cfrhuxbhyqxxvazfaxjicm', 'stack': 0}, {'name': 14, 'state': 'folded', 'uuid': 'ilbdigkszjcvhennhkzitb', 'stack': 0}, {'name': 17, 'state': 'participating', 'uuid': 'vvcyugguowuwfmcmzcidye', 'stack': 1000}, {'name': 15, 'state': 'folded', 'uuid': 'umimfspukrvqdumcifczdy', 'stack': 0}, {'name': 4, 'state': 'folded', 'uuid': 'vfxzvblxxxubskrmwitrjl', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+The fitness totals for this round are:  [0, 0, 999, 0, 0, 1000, 235, 0, 0, 0, 0, 0, 0, 0, 0, 0, 765, 1000, 0, 0]
+Beginning population round 2
+Setting up a new table
+Welcoming player 12
+Welcoming player 2
+Welcoming player 15
+Welcoming player 0
+Welcoming player 14
+The final results of the poker tournament are:  {'players': [{'name': 12, 'state': 'folded', 'uuid': 'nzoloyuddespiugpqwavsn', 'stack': 0}, {'name': 2, 'state': 'folded', 'uuid': 'stnjwlzdnkehqokfgvrvgb', 'stack': 0}, {'name': 15, 'state': 'participating', 'uuid': 'ctkngrjoduecbwvsboagng', 'stack': 1000}, {'name': 0, 'state': 'folded', 'uuid': 'cfwbjufjhytlsrkqhdjuqd', 'stack': 0}, {'name': 14, 'state': 'folded', 'uuid': 'qmitmgfttcpuzprhpzannr', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 5
+Welcoming player 8
+Welcoming player 10
+Welcoming player 18
+Welcoming player 7
+The final results of the poker tournament are:  {'players': [{'name': 5, 'state': 'folded', 'uuid': 'jqqnhxyvqbdanpxphvfozu', 'stack': 0}, {'name': 8, 'state': 'folded', 'uuid': 'lklxtrrdxveloppgvchbgp', 'stack': 0}, {'name': 10, 'state': 'folded', 'uuid': 'ngiydkmkfqkfmftcktlsuj', 'stack': 0}, {'name': 18, 'state': 'participating', 'uuid': 'arpecdzdmraistilmmvxgc', 'stack': 1000}, {'name': 7, 'state': 'folded', 'uuid': 'gdrxqaoimuojbdumtrjoch', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 11
+Welcoming player 13
+Welcoming player 3
+Welcoming player 19
+Welcoming player 1
+The final results of the poker tournament are:  {'players': [{'name': 11, 'state': 'participating', 'uuid': 'gvbcfplghdetjoyhopvwgt', 'stack': 999}, {'name': 13, 'state': 'folded', 'uuid': 'imhpxlnoecpwvqwkminbub', 'stack': 0}, {'name': 3, 'state': 'folded', 'uuid': 'witdddoifnkzqnhrwokrng', 'stack': 0}, {'name': 19, 'state': 'folded', 'uuid': 'rufrayuggspesbyrjfvaqc', 'stack': 0}, {'name': 1, 'state': 'folded', 'uuid': 'lxyfoivztkaqsvrzgwuysy', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 17
+Welcoming player 6
+Welcoming player 16
+Welcoming player 4
+Welcoming player 9
+The final results of the poker tournament are:  {'players': [{'name': 17, 'state': 'folded', 'uuid': 'nwfqdkanxkuupgnwvlogdn', 'stack': 0}, {'name': 6, 'state': 'folded', 'uuid': 'fokrouwtxidmnurisxjgta', 'stack': 0}, {'name': 16, 'state': 'folded', 'uuid': 'fccoxkkkuxiewpxzlxlvuq', 'stack': 0}, {'name': 4, 'state': 'participating', 'uuid': 'iranzqmokfrolffhvnmzoa', 'stack': 1000}, {'name': 9, 'state': 'folded', 'uuid': 'zxlcbvkzwsqrhfvfhaenkc', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+The fitness totals for this round are:  [0, 0, 0, 0, 1000, 0, 0, 0, 0, 0, 0, 999, 0, 0, 0, 1000, 0, 0, 1000, 0]
+Beginning population round 3
+Setting up a new table
+Welcoming player 3
+Welcoming player 18
+Welcoming player 11
+Welcoming player 2
+Welcoming player 13
+The final results of the poker tournament are:  {'players': [{'name': 3, 'state': 'folded', 'uuid': 'zxtvjiiwtcjxavgtxxrxws', 'stack': 0}, {'name': 18, 'state': 'folded', 'uuid': 'jwsegiupgiosjjwaxfrcfp', 'stack': 0}, {'name': 11, 'state': 'participating', 'uuid': 'ybmaruxbrfabczpfsfrtke', 'stack': 1000}, {'name': 2, 'state': 'folded', 'uuid': 'wnypcobkqzklgskipfhfmi', 'stack': 0}, {'name': 13, 'state': 'folded', 'uuid': 'zarfglnqvqgdoffjyfywuk', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 10
+Welcoming player 19
+Welcoming player 9
+Welcoming player 15
+Welcoming player 0
+The final results of the poker tournament are:  {'players': [{'name': 10, 'state': 'folded', 'uuid': 'scvjwoilnlnnlypkoaotmm', 'stack': 0}, {'name': 19, 'state': 'folded', 'uuid': 'nthwmlwdbnfjarlxwtrmde', 'stack': 0}, {'name': 9, 'state': 'folded', 'uuid': 'elcfmbpfykfccumebrflhi', 'stack': 0}, {'name': 15, 'state': 'participating', 'uuid': 'shrqyebwmtgkvysmcqsppc', 'stack': 1000}, {'name': 0, 'state': 'folded', 'uuid': 'qxwuzgbsfibxlsyummnjup', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 4
+Welcoming player 17genetic.py:33: VisibleDeprecationWarning: using a non-integer number instead of an integer will result in an error in the future
+  new_generation = np.random.choice(self.pop, self.size/2, p=fitnesses, replace=False) #these are the survivors of the Moran process.
+genetic.py:34: VisibleDeprecationWarning: using a non-integer number instead of an integer will result in an error in the future
+  births = np.random.choice(self.pop, self.size - self.size/2, p=fitnesses, replace=True) #these are the new additions
+
+Welcoming player 12
+Welcoming player 8
+Welcoming player 14
+The final results of the poker tournament are:  {'players': [{'name': 4, 'state': 'participating', 'uuid': 'nclpwelplamcxcogpaxafd', 'stack': 501}, {'name': 17, 'state': 'participating', 'uuid': 'buqzawuhaoccthhpyuywvm', 'stack': 499}, {'name': 12, 'state': 'participating', 'uuid': 'rqtvrninbmdldwbvewyitn', 'stack': 0}, {'name': 8, 'state': 'participating', 'uuid': 'athksuouviupxqzsycnwba', 'stack': 0}, {'name': 14, 'state': 'participating', 'uuid': 'qkcfkfljemubitiakrinpx', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 1
+Welcoming player 5
+Welcoming player 6
+Welcoming player 16
+Welcoming player 7
+The final results of the poker tournament are:  {'players': [{'name': 1, 'state': 'participating', 'uuid': 'zjqmwskycxuhezsebchiaf', 'stack': 0}, {'name': 5, 'state': 'participating', 'uuid': 'pcitihrbjqjqtvnlblyzwh', 'stack': 0}, {'name': 6, 'state': 'participating', 'uuid': 'iiguenoqsekynovjwoyokj', 'stack': 322}, {'name': 16, 'state': 'participating', 'uuid': 'wzjchokqhsqdkzbvijayul', 'stack': 0}, {'name': 7, 'state': 'participating', 'uuid': 'knxpadbxrdtgyugqywcobr', 'stack': 678}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+The fitness totals for this round are:  [0, 0, 0, 0, 501, 0, 322, 678, 0, 0, 0, 1000, 0, 0, 0, 1000, 0, 499, 0, 0]
+Beginning population round 4
+Setting up a new table
+Welcoming player 16
+Welcoming player 3
+Welcoming player 9
+Welcoming player 4
+Welcoming player 7
+The final results of the poker tournament are:  {'players': [{'name': 16, 'state': 'folded', 'uuid': 'egfgyfhpisrfvrrilpodzj', 'stack': 0}, {'name': 3, 'state': 'participating', 'uuid': 'bmizascswbzrovdsavulbf', 'stack': 999}, {'name': 9, 'state': 'folded', 'uuid': 'lbumkvutqmtswzagisenec', 'stack': 0}, {'name': 4, 'state': 'folded', 'uuid': 'szljvrfadwgwstfxmmwcan', 'stack': 0}, {'name': 7, 'state': 'folded', 'uuid': 'ixhiopetwicdjjpqbsddtx', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 11
+Welcoming player 13
+Welcoming player 8
+Welcoming player 15
+Welcoming player 0
+The final results of the poker tournament are:  {'players': [{'name': 11, 'state': 'folded', 'uuid': 'fcgijtizmonuxzvzylydlh', 'stack': 0}, {'name': 13, 'state': 'folded', 'uuid': 'iiugzkmhdydobdhjzvxwst', 'stack': 0}, {'name': 8, 'state': 'participating', 'uuid': 'ziljxxzbtjemmhmkvipglw', 'stack': 1000}, {'name': 15, 'state': 'folded', 'uuid': 'gkhahbgijvxzqqzjpxxfwz', 'stack': 0}, {'name': 0, 'state': 'folded', 'uuid': 'ydcxwalljfwmysqzvrsttz', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 2
+Welcoming player 1
+Welcoming player 6
+Welcoming player 18
+Welcoming player 5
+The final results of the poker tournament are:  {'players': [{'name': 2, 'state': 'participating', 'uuid': 'luabdtnvzbapgguglemnuc', 'stack': 1000}, {'name': 1, 'state': 'participating', 'uuid': 'uyxxmfrdbvuxtxjzwmpwzl', 'stack': 0}, {'name': 6, 'state': 'participating', 'uuid': 'kcqbknhrsoseljkwhxnxhb', 'stack': 0}, {'name': 18, 'state': 'participating', 'uuid': 'cbpwmeefnhofxblcvljhhu', 'stack': 0}, {'name': 5, 'state': 'participating', 'uuid': 'acauhefbkgcxiuugvuujha', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+Setting up a new table
+Welcoming player 10
+Welcoming player 14
+Welcoming player 17
+Welcoming player 19
+Welcoming player 12
+The final results of the poker tournament are:  {'players': [{'name': 10, 'state': 'folded', 'uuid': 'zvgcsiflzhxeocecpamopx', 'stack': 0}, {'name': 14, 'state': 'folded', 'uuid': 'snoancmzyfcwrkornqqrgn', 'stack': 0}, {'name': 17, 'state': 'folded', 'uuid': 'lxijmdyvlvmkrbcpdskzsx', 'stack': 0}, {'name': 19, 'state': 'participating', 'uuid': 'olgveodwkusrjvthzzpqek', 'stack': 999}, {'name': 12, 'state': 'folded', 'uuid': 'pebglnnmtyfmbcuyeecalm', 'stack': 0}], 'rule': {'initial_stack': 200, 'small_blind_amount': 1, 'ante': 0, 'blind_structure': {}, 'max_round': 20}}
+The fitness totals for this round are:  [0, 0, 1000, 999, 0, 0, 0, 0, 1000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 999]
+Traceback (most recent call last):
+  File "genetic.py", line 82, in <module>
+    a = a.birth_cycle()
+  File "genetic.py", line 38, in birth_cycle
+    new_generation.append(new_ai)
+AttributeError: 'numpy.ndarray' object has no attribute 'append'

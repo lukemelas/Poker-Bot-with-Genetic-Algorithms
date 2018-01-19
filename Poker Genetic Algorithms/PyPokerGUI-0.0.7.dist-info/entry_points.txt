@@ -1,0 +1,3 @@
+[console_scripts]
+pypokergui = pypokergui.__main__:cli
+

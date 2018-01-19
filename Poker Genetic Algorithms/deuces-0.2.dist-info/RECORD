@@ -1,0 +1,15 @@
+deuces/__init__.py,sha256=P7dJyVIp3lO2dPZxYqi15U-EcrOBRgovhz09_LdOt4w,79
+deuces/card.py,sha256=wLNovncGsXNqVO1n09-TUMNFIHXY5dL6YO8p2GUCUI0,6318
+deuces/deck.py,sha256=-gfECRszd8WbM9k3Ll2ADc43J1t89VRxnPNl7K1nfdE,1093
+deuces/evaluator.py,sha256=sEBOVrTUGg1ceqBOX4yDDv89GgFdU74g48lSK2Mm300,7036
+deuces/lookup.py,sha256=y3PmsI7xmAHgVctBAJbyyu8pSdk319qyqQPf1tX6eaQ,8888
+deuces-0.2.dist-info/DESCRIPTION.rst,sha256=DKLSjUFk8AVbOBPSIC4fTL6k_XPTOXWRQ54Z3YYHrtI,446
+deuces-0.2.dist-info/METADATA,sha256=GzVYMr0xdU4-dSJmGs706vheAWtwxeQZlVn7cwP3vQs,557
+deuces-0.2.dist-info/RECORD,,
+deuces-0.2.dist-info/WHEEL,sha256=P38jWTygGYrl_0GMOplA3DhMPkpz4Mt1C9VOqdhBfKg,98
+deuces-0.2.dist-info/metadata.json,sha256=y7ZgLnedqbWo_IlNrxc7grDTO5lg94glBs68qYTL-K8,262
+deuces-0.2.dist-info/top_level.txt,sha256=m9bVgQ8VYDs2gaY7mjYZKRm-HDZjF74zONxEO_-w1js,7
+deuces-0.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+deuces/__pycache__/deck.cpython-36.pyc,,
+deuces/__pycache__/lookup.cpython-36.pyc,,
+deuces/__pycache__/__init__.cpython-36.pyc,,

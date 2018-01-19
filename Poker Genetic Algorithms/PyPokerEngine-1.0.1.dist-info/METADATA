@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: PyPokerEngine
+Version: 1.0.1
+Summary: Poker engine for poker AI development in Python 
+Home-page: https://github.com/ishikota/PyPokerEngine
+Author: ishikota
+Author-email: ishikota086@gmail.com
+License: MIT
+Keywords: python poker emgine ai
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+
+UNKNOWN
+
+
